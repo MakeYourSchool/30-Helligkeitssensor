@@ -1,26 +1,24 @@
-## Light_Sensor
-![](https://statics3.seeedstudio.com/images/101020014%201.jpg)
+Helligkeitssensor
+----
+*(Seeed Studio Grove – Light Sensor v1.2)*
 
-The light sensor, also known as the light dependent resistor (LDR). Typically, the resistance of the light sensor will decrease when the ambient light intensity increases.
+<img src=https://www.makeyourschool.de/wp-content/uploads/2018/10/30_helligkeitssensor-1024x1024.jpg width=400px>
 
-There is another production - Grove - Light Sensor (P), which is identical except the Grove connecter is moved to the back so that you can easily use it as a neat and wire-free human interface device.
+Der Helligkeitssensor ermittelt die ihn umgebende Helligkeit. Er besteht aus einem Fotowiderstand, der abhängig von der Umgebungshelligkeit seinen Widerstand ändert. Durch die interne Verschaltung gibt der Sensor proportional zu der Helligkeit schließlich eine analoge Spannung aus. Der Sensor kann direkt oder mithilfe des Grove Shields an einen Arduino angeschlossen werden.
 
-For more information, please refer to [wiki page][1]
+Der Helligkeitssensor wird häufig eingesetzt, um Leuchten automatisch bei Dunkelheit anzuschalten.
 
 ----
-This software is written by Frankie Chu for seeed studio<br>
-and is licensed under [The MIT License](http://opensource.org/licenses/mit-license.php). Check License.txt for more information.<br>
 
-Contributing to this software is warmly welcomed. You can do this basically by<br>
-[forking](https://help.github.com/articles/fork-a-repo), committing modifications and then [pulling requests](https://help.github.com/articles/using-pull-requests) (follow the links above<br>
-for operating guide). Adding change log and your contact into file header is encouraged.<br>
-Thanks for your contribution.
+In diesem Repository findet ihr **Bibliotheken und Beispiel-Codes**, mit denen der hier vorliegende Sensor getestet werden kann. Wir richten uns hiermit an **jeden Mentor und jede Mentorin aus dem Rahmen von Make Your School** und ermutigen euch, die hier zusammengestellten Codes **nach Bedarf** und individuell gemachten Erfahrungen **anzupassen**. Beispiele können einfach im Ordner /examples hinzugefügt oder angepasst werden. Wir versuchen das Repository regelmäßig mit Hilfe von euren Änderungsvorschlägen zu aktualisieren.
 
-Seeed is a hardware innovation platform for makers to grow inspirations into differentiating products. By working closely with technology providers of all scale, Seeed provides accessible technologies with quality, speed and supply chain knowledge. When prototypes are ready to iterate, Seeed helps productize 1 to 1,000 pcs using in-house engineering, supply chain management and agile manufacture forces. Seeed also team up with incubators, Chinese tech ecosystem, investors and distribution channels to portal Maker startups beyond.
+Das Repository basiert grundlegend auf den veröffentlichten Informationen und Codes von Seeed Studio. 
+Die deutsche Übersetzung stammt von [Make Your School](https://www.makeyourschool.de/). Fehlinterpretationen und Änderungen vorbehalten. Die Informationen dürfen frei genutzt, angepasst und verbreitet werden, solange die [Nutzungsrechte von Seeed Studio](https://github.com/Seeed-Studio/Grove_Dust_Sensor/blob/master/License.txt) beachtet werden. 
 
+**Weitere Informationen:**
 
-[1]:http://wiki.seeedstudio.com/Grove-Light_Sensor/
+[Repository von Seed Studio](https://github.com/Seeed-Studio/)
 
+[Offizielles Wiki von Seed Studio](http://wiki.seeedstudio.com/Grove/)
 
-[![Analytics](https://ga-beacon.appspot.com/UA-46589105-3/Light_Sensor)](https://github.com/igrigorik/ga-beacon)
-
+[Materialkoffer von Make Your School](https://www.makeyourschool.de/material/)
